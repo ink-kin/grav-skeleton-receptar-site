@@ -1,29 +1,30 @@
-# Receptar Skeleton for Grav
+# Receptar Skeleton for Grav ПЕРЕВОД
 
 ![Receptar](assets/readme_1.png)
 
-Receptar is simple, modern, responsive, high-DPI, fully customizable, stylish blog Grav theme by [WebMan Design](http://themedemos.webmandesign.eu/).
-It features split-screen book-like design inspired by a modern cook book with emphasize on beautiful imagery and typography.
+Receptar — это простая, современная, отзывчивая, полностью настраиваемая, стильная тема блога Grav с высоким разрешением от [WebMan Design](http://themedemos.webmandesign.eu/). Он имеет книжный дизайн с разделенным экраном, вдохновленный современной кулинарной книгой, с акцентом на красивые изображения и типографику.
 
-# Features
+# Функции
 
-* Navigation menu included
-* Split-screen book-like design
-* Collapsible sidebar
-* Blog Layout with support for recipes
-* Beautiful imagery and typography.
-* Social Sharing
-* Browser Compatibility
-* Supports YouTube
-* Supports SoundCloud
-* Supports Vimeo
-* SimpleSearch support
-* Feeds
-* RelatedPosts plugin support
-* Archives plugin support
-* JSComments plugin support
-* Comments and Forms plugin support
-* Basic translations for 14 languages
+* Меню навигации включено
+* Книжный дизайн с разделенным экраном
+* Складная боковая панель
+* Макет блога с поддержкой рецептов
+* Красивые изображения и типографика.
+* Социальный обмен
+* Совместимость с браузером
+* Поддерживает YouTube
+* Поддерживает СаундКлауд
+* Поддерживает видео
+* Поддержка простого поиска
+* Фиды
+* Поддержка плагина RelatedPosts
+* Поддержка плагинов архивов
+* Поддержка плагина JComments
+* Поддержка плагинов комментариев и форм
+* Базовые переводы на 14 языков
+
+
 
 ## Basic Setup for a new Grav site
 
